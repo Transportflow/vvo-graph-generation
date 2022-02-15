@@ -2,12 +2,22 @@
   "name": "vvo-graph-generation",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cli.js",
+  "bin": {
+    "vvo-graph-generation": "cli.js"
+  },
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Transportflow/vvo-graph-generation"
+  },
   "author": "Adwirawien",
-  "license": "ISC",
+  "license": "BSD-3",
   "dependencies": {
     "axios": "^0.25.0",
     "check-types": "^11.1",
