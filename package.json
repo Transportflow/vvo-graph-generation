@@ -7,7 +7,9 @@
     "vvo-graph-generation": "cli.js"
   },
   "files": [
-    "lib"
+    "cli.js",
+    "lib",
+    "data/log"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
