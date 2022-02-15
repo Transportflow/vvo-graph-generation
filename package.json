@@ -1,0 +1,18 @@
+{
+  "name": "vvo-graph-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adwirawien",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "check-types": "^11.1",
+    "deepdash": "^5.3",
+    "lodash": "^4.17.11",
+    "mri": "^1.2.0"
+  }
+}
