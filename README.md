@@ -1,3 +1,5 @@
+![graph-preview](assets/graph-preview.png)
+
 # vvo-graph-generation
 
 It can be quite useful to have a graph (in the [JsonGraphFormat](http://jsongraphformat.info)) of a public transport network, possible usecases include:
